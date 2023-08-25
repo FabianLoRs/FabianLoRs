@@ -13,10 +13,9 @@
   </ul>
 </div>
 <hr>
-====
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,github,html,css,java,spring,linux,md,mongodb,mysql,nodejs,postman,js,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker,github,html,css,java,spring,linux,mongodb,mysql,nodejs,postman,js,ts,vscode&perline=14" />
   </a>
 </p>
+
