@@ -3,7 +3,7 @@
 <hr>
 <p align="center">
   <em>
-    Hello, welcome to my GitHub, a passionate backend developer, always eager to learn new technologies to give my best in every challenge that is required.
+    Hello, welcome to my GitHub, a student and backend developer, always eager to learn new technologies to give my best in every challenge that is required.
   </em> 
   <br>
 </p>
