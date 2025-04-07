@@ -15,7 +15,7 @@
 <hr>
 <p align="center">
   <a href="https://github.com/FabianLoRs">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,linux,mongodb,mysql,postgres,postman,js,ts,vscode,git,docker,github,html,css&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,linux,mongodb,idea,vscode,mysql,postgres,postman,js,ts,git,docker,github,html,css&perline=5" />
   </a>
 </p>
 
